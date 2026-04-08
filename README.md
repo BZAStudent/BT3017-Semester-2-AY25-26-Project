@@ -13,7 +13,6 @@ This project demonstrates how to:
 - `2_Visualiser.py`: Visualise selected graph to showcase Laplacian properties
 - `requirements.txt`: Python dependencies
 
-```
 ## Instructions
     1. Clone the GitHub repository.
 
