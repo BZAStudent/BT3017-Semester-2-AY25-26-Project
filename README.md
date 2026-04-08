@@ -13,34 +13,29 @@ This project demonstrates how to:
 - `2_Visualiser.py`: Visualise selected graph to showcase Laplacian properties
 - `requirements.txt`: Python dependencies
 
-```
 ## Instructions
-    1. Clone the GitHub repository.
-
-    2. Create a Python virtual environment:
+1. Clone the GitHub repository.
+2. Create a Python virtual environment:
         ```
         python -m venv venv
         ```
-    
-    3. Activate the virtual environment:
-        Windows:
+3. Activate the virtual environment:
+   
+   Windows:
         ```
         venv\Scripts\activate
         ```
 
-        macOS/Linux:
+   macOS/Linux:
         ```
         source venv/bin/activate
         ```
-
-    4. Install the required dependencies:
+4. Install the required dependencies:
         ```
         pip install -r requirements.txt
         ```
-    
-    5. Run the Streamlit application:
+5. Run the Streamlit application:
         ```
         streamlit run Home.py
         ```
-    
-    6.Open the application in your browser and explore the Graph Laplacian Visualiser.
+6. Open the application in your browser and explore the Graph Laplacian Visualiser.
