@@ -41,5 +41,4 @@ This project demonstrates how to:
         ```
         streamlit run Home.py
         ```
-    
  7.Open the application in your browser and explore the Graph Laplacian Visualiser.
