@@ -22,22 +22,22 @@ This project demonstrates how to:
         ```
     
 3. Activate the virtual environment:
-        Windows:
+   Windows:
         ```
         venv\Scripts\activate
         ```
 
-        macOS/Linux:
+   macOS/Linux:
         ```
         source venv/bin/activate
         ```
 
-4. Install the required dependencies:
+5. Install the required dependencies:
         ```
         pip install -r requirements.txt
         ```
     
-5. Run the Streamlit application:
+6. Run the Streamlit application:
         ```
         streamlit run Home.py
         ```
