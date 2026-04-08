@@ -14,14 +14,14 @@ This project demonstrates how to:
 - `requirements.txt`: Python dependencies
 
 ## Instructions
-    1. Clone the GitHub repository.
+1. Clone the GitHub repository.
 
-    2. Create a Python virtual environment:
+2. Create a Python virtual environment:
         ```
         python -m venv venv
         ```
     
-    3. Activate the virtual environment:
+3. Activate the virtual environment:
         Windows:
         ```
         venv\Scripts\activate
@@ -32,14 +32,14 @@ This project demonstrates how to:
         source venv/bin/activate
         ```
 
-    4. Install the required dependencies:
+4. Install the required dependencies:
         ```
         pip install -r requirements.txt
         ```
     
-    5. Run the Streamlit application:
+5. Run the Streamlit application:
         ```
         streamlit run Home.py
         ```
     
-    6.Open the application in your browser and explore the Graph Laplacian Visualiser.
+6.Open the application in your browser and explore the Graph Laplacian Visualiser.
