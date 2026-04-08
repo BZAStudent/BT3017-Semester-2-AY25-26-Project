@@ -37,9 +37,9 @@ This project demonstrates how to:
         pip install -r requirements.txt
         ```
     
-6. Run the Streamlit application:
+ 6. Run the Streamlit application:
         ```
         streamlit run Home.py
         ```
     
-6.Open the application in your browser and explore the Graph Laplacian Visualiser.
+ 7.Open the application in your browser and explore the Graph Laplacian Visualiser.
